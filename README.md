@@ -30,6 +30,8 @@
   + [Reporting Problems](#reporting-problems)
   + [Receiving Assistance](#receiving-assistance)
 
+**This assignment is due by 2:30 pm on Monday, October 12, 2020**.
+
 ## Objectives
 
 The learning objectives for this laboratory assignment are as follows:
