@@ -195,9 +195,9 @@ a program called `curl`. If you are using Windows 10 Pro then you will need to
 follow the PowerShell installation instructions on Poetry's web site.
 
 Now, making sure that you are in your "home base" directory for this laboratory
-assignment, you need to install the dependencies for the `iterator` program
+assignment, you need to install the dependencies for the `datasummarizer` program
 that you will implement, debug, and observe. To complete this step you need to
-type `cd iterator` and then `poetry install`. What output did this command
+type `cd datasummarizer` and then `poetry install`. What output did this command
 produce? What do you think that this step did? Why is important to type these
 commands? Make sure that you know the answers to these question before moving
 onto the next step of the assignment.
@@ -305,10 +305,10 @@ in doing so, please add more test cases to either the `tests/test_summarize.py`
 test suite or the `tests/test_transform.py` test suite so as to better ensure
 that the functions under test work correctly. Since it is also important to
 ensure that your program's source code adheres to all industry-standard best
-practices, you should run the command `poetry run pylint iterator tests`, fixing
+practices, you should run the command `poetry run pylint datasummarizer tests`, fixing
 any issues that it raises. Finally, you can ensure that your program's source
 code has an industry-standard format by running the command `poetry run black
-iterator tests`.
+datasummarizer tests`.
 
 ### Reflecting on the Laboratory Assignment
 
