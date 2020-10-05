@@ -52,7 +52,7 @@ datasummarizer/tests/test_transform.py:
 writing/reflection.md:
     ConfirmFileExists
     CountFileWords --count 500
-    CountMarkdownTags --tag "heading" --count 8 --exact
+    CountMarkdownTags --tag "heading" --count 9 --exact
     CountMarkdownTags --tag "code" --count 1
     CountMarkdownTags --tag "code_block" --count 3
     MatchFileFragment --fragment "TODO" --count 0 --exact
