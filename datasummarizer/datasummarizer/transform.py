@@ -1,6 +1,5 @@
 """Transform the data."""
 
-from typing import List
 
 
 def transform_string_to_number_list(data_text: str) -> List[float]:
